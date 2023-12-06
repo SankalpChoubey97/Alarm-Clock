@@ -1,3 +1,5 @@
+Described below is the javascript part of the code.
+
 Description of variables declared:
 selectMenu: capturing select container, filling hours and minutes in dropdown
 Alarm: array containing alarm object
